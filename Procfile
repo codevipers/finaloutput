@@ -1,1 +1,1 @@
-web: gunicorn CHAOSCODE.wsgi
+web: gunicorn CHAOSCODE.wsgi --log-file
