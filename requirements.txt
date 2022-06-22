@@ -66,7 +66,7 @@ more-itertools==4.2.0
 msgpack==0.6.2
 mysql-connector-python==8.0.16
 nltk==3.4.5
-numpy==1.18.2
+numpy==1.22.0
 openpyxl==2.6.2
 parso==0.4.0
 pickleshare==0.7.5
